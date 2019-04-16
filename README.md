@@ -1,3 +1,3 @@
 # Arduino-Capacitive-Sensor-Remix
 
-Original Code by Konstantin Dimitrov: https://github.com/KonstantinDimitrov/Arduino-Capacitive-Sensor
+Edited from Konstantin Dimitrov's version: https://github.com/KonstantinDimitrov/Arduino-Capacitive-Sensor
